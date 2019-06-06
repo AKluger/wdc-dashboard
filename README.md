@@ -1,2 +1,9 @@
-# wdc-dashboard
-Dashboard for Dog Trainers at the Penn Vet Working Dog Center
+# Dog Trainer Dashboard
+
+
+### Technologies Used:
+* React
+* Node
+* Express
+* Javascript/es6
+* Axios
